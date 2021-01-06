@@ -1,0 +1,157 @@
+*{padding: 0; margin: 0;}
+body{
+     background: #FFFFFF;
+}
+.main-wrap{
+    width: 100%;
+}
+.wrap{
+    width: 1182px;
+    margin: 0 auto;
+  
+ 
+}
+h2 {
+    margin-bottom: 20px;
+}
+p{
+    text-align: justify;
+}
+.font_distant{
+    margin-bottom: 20px;
+}
+/* 8888888888**** start css codeing ***********/
+.nav{
+    margin-left: 867px;
+}
+.nav ul li{
+    list-style-type: none;
+   float:right;
+    padding: 10px;
+    margin: 5px; 
+}
+.nav ul li a{
+    text-decoration: none;
+    color: #535353;
+}
+/* Header css coding aplying *********/
+.header{
+    
+}
+.head{
+    width: 348px;
+    margin-top: 20px;
+    padding: 15px;
+
+}
+
+.head h1{
+    
+}
+
+
+.head a{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #F96B61;
+    padding:10px 20px;
+    border-radius: 5px;
+   
+}
+.head a:hover {
+    background-color: RoyalBlue;
+  }
+#header_side img{
+    width: 420px;
+    height: 600px;
+}
+#header_side{
+  
+    float: right;
+}
+  /*second content css code ***/
+ .content_img img{
+      width: 476.26px;
+      height:583.51px ;
+
+ }
+ .side_content{
+     width: 451px;
+ }
+
+ .btn{
+     padding: 12px;
+     color:#FFFFFF;
+     background-color:#F96B61; 
+     border-radius: 5px;
+     cursor: pointer;
+     font-size: 20px;
+     border: none;
+ }
+ .btn:hover {
+    background-color: RoyalBlue;
+  }
+ 
+ 
+/* third section css codeing aplying*/
+.middle_content{
+     
+}
+.midimg img{
+    width: 370px;
+    
+}
+  
+/* four section css coding aplying */
+.query img{
+    width:906px;
+    height:225px;
+    margin:225px 100px 0px 100px;
+
+}
+
+ /* Number of five section in cumminicated icon use */
+ .comunicat{
+     margin-left: 450px;
+     position: absolute;
+     
+ }
+ .adjust1{
+    position: relative;
+    bottom: 130px;
+    left: 187px;
+ }
+ .adjust2{
+    position: relative;
+    bottom: 165px;
+    left: 822px;
+ }
+ .comunicat h3, h4, p{
+     margin-bottom: 20px;
+     padding: 5px;
+ }
+ .comunicat h4{
+     color:#C7C6C9;
+     margin-top: 30px;
+ }
+
+ .comunicat a{
+     text-decoration: none;
+ }
+ .comunicat a img{
+     width: 40px;
+     height: 40px;
+     padding: 5px;
+
+ }
+ .comunicat a img:hover{
+     background-color:#4169E1;
+     border-radius: 100%;
+ }
+ .spaan{
+    color: tomato;
+    
+}
+.color{
+    color: #363958;
+}
